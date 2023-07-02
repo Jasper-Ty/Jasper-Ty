@@ -1,5 +1,7 @@
 I program things sometimes.
 
+Mastodon: <a rel="me" href="https://mathstodon.xyz/@jasperty">jasperty@mathstodon.xyz</a>
+
 <!--
 **Jasper-Ty/Jasper-Ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
