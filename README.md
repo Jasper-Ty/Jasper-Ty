@@ -1,4 +1,4 @@
-I am quite good at Minesweeper.
+I program things sometimes.
 
 <!--
 **Jasper-Ty/Jasper-Ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
