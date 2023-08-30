@@ -1,5 +1,6 @@
 I program things sometimes.
 
+Site: <a href="https://jasperty.net/">jasperty.net</a>
 Mastodon: <a rel="me" href="https://mathstodon.xyz/@jasperty">jasperty@mathstodon.xyz</a>
 
 <!--
